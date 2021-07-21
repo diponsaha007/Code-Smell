@@ -1,0 +1,17 @@
+
+~	cpp:S3230"dDo not assign data members in a constructor. Initialize member "vertices" in an initialization list.(¼²Óíûÿÿÿÿ
+x	cpp:S3230"dDo not assign data members in a constructor. Initialize member "vertices" in an initialization list.(—¦7
+J	cpp:S1709"/Add the "explicit" keyword to this constructor.(¯»¾8ÄâÛÇ¬/
+Gcpp:S106K".Replace this usage of "std::cout" by a logger.(‰ò²üûÿÿÿÿ
+Bcpp:S106P".Replace this usage of "std::cout" by a logger.(Æ‚ŠË
+Bcpp:S106R".Replace this usage of "std::cout" by a logger.(¥ ±Ê
+fcpp:S134d"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ñ¡ô¢üÿÿÿÿ
+Gcpp:S106s".Replace this usage of "std::cout" by a logger.(¾Û£üÿÿÿÿ
+Gcpp:S106t".Replace this usage of "std::cout" by a logger.(šêØ¢ûÿÿÿÿ
+Gcpp:S106z".Replace this usage of "std::cout" by a logger.(Â·‘öúÿÿÿÿ
+Bcpp:S106".Replace this usage of "std::cout" by a logger.(Æ‚ŠË
+Ccpp:S106".Replace this usage of "std::cout" by a logger.(¥ ±Ê
+^!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(ÑÍµá
+^!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(ïñŠŒ
+c!cpp:SingleDeclarationPerStatement"0Define each identifier in a dedicated statement.(ê—İ€úÿÿÿÿ
+Ccpp:S106›".Replace this usage of "std::cout" by a logger.(¡Æ–ã
