@@ -1,11 +1,0 @@
-
-{	cpp:S3230
-"_Do not assign data members in a constructor. Initialize member "rnk" in an initialization list.(Äã÷8…ËÔ¬/
-ƒ	cpp:S3230"bDo not assign data members in a constructor. Initialize member "parent" in an initialization list.(¹€ºŒûÿÿÿÿ8‘…ËÔ¬/
-z	cpp:S3230"^Do not assign data members in a constructor. Initialize member "sz" in an initialization list.(Ãœ€—8’…ËÔ¬/
-r	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(ËĞİ·øÿÿÿÿ8“…ËÔ¬/
-z	cpp:S3230"^Do not assign data members in a constructor. Initialize member "sz" in an initialization list.(¼Ã´â8“…ËÔ¬/
-P	cpp:S1709"/Add the "explicit" keyword to this constructor.(Ìğ™ùÿÿÿÿ8“…ËÔ¬/
-r	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(ËĞİ·øÿÿÿÿ8”…ËÔ¬/
-J	cpp:S5820S"/Convert this integer literal to a bool literal.(»î¥8ÿµäÔ¬/
-D	cpp:S3584~"/Potential leak of memory pointed to by 'p.node'(”·³›
