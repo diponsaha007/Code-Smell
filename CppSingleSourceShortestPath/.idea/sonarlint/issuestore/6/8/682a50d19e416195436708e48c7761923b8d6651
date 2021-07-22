@@ -1,0 +1,5 @@
+
+~	cpp:S3230"dDo not assign data members in a constructor. Initialize member "vertices" in an initialization list.(¼²Óíûÿÿÿÿ
+x	cpp:S3230"dDo not assign data members in a constructor. Initialize member "vertices" in an initialization list.(—¦7
+J	cpp:S1709"/Add the "explicit" keyword to this constructor.(¯»¾8ÄâÛÇ¬/
+fcpp:S134d"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ñ¡ô¢üÿÿÿÿ
